@@ -5,6 +5,7 @@
 > [!IMPORTANT]
 > Before you run the script i want you to do few things mentioned below.
 > - Install the python if you haven't already link: https://www.python.org/downloads/
+> - Install Requests module if you are in terminal just type `pip install requests` same in vscode.
 > - Log into discord using any web browser use the account you wanna use for script
 > - When you are logged into discord on web browser press `ctrl + shift + i` it will open developer mode after that you would see the network tab if you are confused look at the screenshot below.
 > ![image](https://github.com/user-attachments/assets/399c3eab-9f8d-4a30-b709-d752f131b3c4)
