@@ -1,5 +1,5 @@
 # Discord-Http-requests
-> A script to send and recieve dms messsages via python script. If you can want you can modify and do whatever you like with it bcs it can do much more than that.
+> A script to send and recieve dms messsages via python. If you can want you can modify and do whatever you like with it bcs it can do much more than that.
 
 
 > [!IMPORTANT]
